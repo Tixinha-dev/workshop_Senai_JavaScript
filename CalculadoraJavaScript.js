@@ -45,12 +45,7 @@ namespace Oficina_do_C_sharp
                 Console.WriteLine("o resultado é = " + resultado);
                 Console.ReadKey();
             }
-            catch (Exception Erro)
-            {
-                Console.WriteLine("Houve um erro! "+Erro);
-                Console.ReadKey();
-            }
-            goto Volta;
+       um erro! o
         }
     }
 }
